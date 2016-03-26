@@ -1,5 +1,5 @@
-/* Programmed by Jenkins Shubham for educational purpose Only*/
-// Virus
+/* Programmed by Jenkins Shubham for educational purpose Only */
+// Flooder
 //  This will make infinite number of folder in current directory
 
 #include<stdio.h>
